@@ -1,0 +1,29 @@
+{
+  "contacts": [],
+  "groups": [
+    {
+      "id": "1",
+      "name": "friends"
+    },
+    {
+      "id": "2",
+      "name": "family"
+    },
+    {
+      "id": "3",
+      "name": "colleague"
+    },
+    {
+      "id": "4",
+      "name": "college"
+    },
+    {
+      "id": "5",
+      "name": "school"
+    },
+    {
+      "id": "6",
+      "name": "social"
+    }
+  ]
+}
