@@ -1,3 +1,3 @@
 **Employee-Management**
 
-This is single page application develop using react js and JSON database.
+This is single page application developed using react js and JSON database.
